@@ -1,0 +1,29 @@
+
+1. Produce a speed profile for each file. > speed.bin
+2. Estimate a WD/Cheb between daily readings and speed profile using WD > WD.bin
+3. Produce viz plots (speed, profile, WD, Cheb) as PDF files with legend > *ID*.pdf
+
+4. Markup of disruptions. Develop a markup tool.
+
+5. Segmentation based on WD (as much as possible, with state restoration, use different folders).
+
+6. Mean percent of overlap (development of analysis methodology: MaxIoU, MeanIoU).
+	Show metrics and produce plots (histograms, cross-plot)
+	(mention that there may be multiple disruptions detected in traffic speed)
+	(Speed-Flow diagram to show why speed is used - because)
+Introduction into accident segmentation and markup comparison. ++ Reasoning: Disruption detection model can detect multiple disruptions within each day, but we can have only one accident reported. We need to introduce specific metrics to explain this task.
+getABS
+7. ++ Cross-plot: above correct, below correct over the degree of overlap.
+
+8. Hyper-parameter search (against one parameter). Determining variations among top parameters (collecting all the data using random search to train the model next time). ++ Cross-validation score for the model (MSE). 
+9. Use of SHAP to determine parameter importance (based on model to predict the resulting score).
+
+
+
+10. IsolationForest and One-class SVM to find independent outlier windows (12 values).
+	7. Optional: Facebook Prophet for prediction of next 12 values based on weekly readings (2016 training sequences), anomaly detection in the last day.
+Also, cross-plot for these three methods. ++
+
+Add author biographies + photos.
+
+Describe the data.
