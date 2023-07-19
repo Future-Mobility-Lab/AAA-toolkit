@@ -1,6 +1,6 @@
 Accident Analysis & Association (AAA) toolkit.
 
-**(update is pending, more organized structure with descriptions is being added, association between code parts and ipynb files is being processed)**
+**(update is pending, code cleanup is pending, more organized structure with descriptions is being added, association between code parts and ipynb files is being processed)**
 
 The Accident Analysis & Association (AAA) toolkit is a comprehensive program designed for data-driven accident analysis and mapping. The toolkit leverages a range of geospatial and traffic data sources to create a multi-dimensional view of traffic incidents in a particular region.
 
