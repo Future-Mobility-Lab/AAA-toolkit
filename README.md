@@ -2,7 +2,7 @@ Accident Analysis & Association (AAA) toolkit.
 
 The Accident Analysis & Association (AAA) toolkit is a comprehensive program designed for data-driven accident analysis and mapping. The toolkit leverages a range of geospatial and traffic data sources to create a multi-dimensional view of traffic incidents in a particular region.
 
-(update is pending, more organized structure with descriptions is being added)
+'(update is pending, more organized structure with descriptions is being added)'
 
 Code parts:
 1.	Download OSM data for specific coordinates / or extract from Geofabrik.
