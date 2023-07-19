@@ -1,8 +1,12 @@
 Accident Analysis & Association (AAA) toolkit.
 
+**(update is pending, more organized structure with descriptions is being added, association between code parts and ipynb files is being processed)**
+
 The Accident Analysis & Association (AAA) toolkit is a comprehensive program designed for data-driven accident analysis and mapping. The toolkit leverages a range of geospatial and traffic data sources to create a multi-dimensional view of traffic incidents in a particular region.
 
-'''(update is pending, more organized structure with descriptions is being added)'''
+The traffic speed readings are available by the link (CSV - traffic speed readings on the day of disruption, PMW - traffic speed readings during the first week before the day of disruption, PMW2 - traffic speed readings the during a week, two weeks before the day of disruption):
+
+https://drive.google.com/file/d/1tKqefd8TgX_fVh-COoQk0ZN-YSSJ3gH6/view?usp=sharing
 
 Code parts:
 1.	Download OSM data for specific coordinates / or extract from Geofabrik.
@@ -13,8 +17,11 @@ Code parts:
 6.	Apply road alignment: VDS2ROAD, CTADS2ROAD.
 7.	Apply algorithm: CTADS2VDS. Associate VDS points to accident points.
 8.	CTADS2TS: Download traffic speed on the day of incident and two weeks before.
-9.	Produce the final pickle file for traffic speeds/traffic flows.
+9.	Manual markup tool to segment traffic incidents from traffic speed.
+10.	Produce the final file for traffic speeds/traffic flows.
 
+
+The code implements multiple steps and code parts:
 
     Download OSM data for specific region from Geofabrik.: This code is responsible for obtaining OpenStreetMap (OSM) data from Geofabrik, a provider of free and up-to-date geodata derived from OSM.
 
