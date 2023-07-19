@@ -16,6 +16,8 @@ Code parts:
 9.	Produce the final pickle file for traffic speeds/traffic flows.
 
 
+The code implements multiple steps and code parts:
+
     Download OSM data for specific region from Geofabrik.: This code is responsible for obtaining OpenStreetMap (OSM) data from Geofabrik, a provider of free and up-to-date geodata derived from OSM.
 
     Download CTADS and extract the incidents in the area.: The next part of the code fetches data from the Countrywise Traffic Accident Data Set (CTADS). This data includes details about traffic incidents that have occurred in the specified region.
