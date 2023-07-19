@@ -1,0 +1,82 @@
+{ "type": "Feature", "properties": { "vds": 416144, "place": "500' N of Lake St", "X": -122.469662, "Y": 37.791909 }, "geometry": { "type": "Point", "coordinates": [ -122.469662, 37.791909 ] } }
+{ "type": "Feature", "properties": { "vds": 416145, "place": "oppo 500' N of Lake St", "X": -122.469816, "Y": 37.792051 }, "geometry": { "type": "Point", "coordinates": [ -122.469816, 37.792051 ] } }
+{ "type": "Feature", "properties": { "vds": 402814, "place": "SFOBB S-curve loc 1", "X": -122.382858, "Y": 37.793423 }, "geometry": { "type": "Point", "coordinates": [ -122.382858, 37.793423 ] } }
+{ "type": "Feature", "properties": { "vds": 402815, "place": "SFOBB S-curve loc 1", "X": -122.376772, "Y": 37.799144 }, "geometry": { "type": "Point", "coordinates": [ -122.376772, 37.799144 ] } }
+{ "type": "Feature", "properties": { "vds": 402816, "place": "SFOBB S-curve loc 1", "X": -122.37087, "Y": 37.804603 }, "geometry": { "type": "Point", "coordinates": [ -122.37087, 37.804603 ] } }
+{ "type": "Feature", "properties": { "vds": 402817, "place": "SFOBB S-curve loc 1", "X": -122.367285, "Y": 37.807966 }, "geometry": { "type": "Point", "coordinates": [ -122.367285, 37.807966 ] } }
+{ "type": "Feature", "properties": { "vds": 420340, "place": "SFOBB S-curve loc 1", "X": -122.363109, "Y": 37.811826 }, "geometry": { "type": "Point", "coordinates": [ -122.363109, 37.811826 ] } }
+{ "type": "Feature", "properties": { "vds": 420341, "place": "SFOBB S-curve loc 1", "X": -122.362873, "Y": 37.812048 }, "geometry": { "type": "Point", "coordinates": [ -122.362873, 37.812048 ] } }
+{ "type": "Feature", "properties": { "vds": 404896, "place": "SFOBB S-curve loc 1", "X": -122.36157, "Y": 37.813047 }, "geometry": { "type": "Point", "coordinates": [ -122.36157, 37.813047 ] } }
+{ "type": "Feature", "properties": { "vds": 404921, "place": "SFOBB S-curve loc 1", "X": -122.359342, "Y": 37.814005 }, "geometry": { "type": "Point", "coordinates": [ -122.359342, 37.814005 ] } }
+{ "type": "Feature", "properties": { "vds": 404886, "place": "SFOBB S-curve loc 1", "X": -122.357984, "Y": 37.814439 }, "geometry": { "type": "Point", "coordinates": [ -122.357984, 37.814439 ] } }
+{ "type": "Feature", "properties": { "vds": 404923, "place": "SFOBB S-curve loc 1", "X": -122.356114, "Y": 37.815028 }, "geometry": { "type": "Point", "coordinates": [ -122.356114, 37.815028 ] } }
+{ "type": "Feature", "properties": { "vds": 404885, "place": "SFOBB S-curve loc 1", "X": -122.352728, "Y": 37.816129 }, "geometry": { "type": "Point", "coordinates": [ -122.352728, 37.816129 ] } }
+{ "type": "Feature", "properties": { "vds": 404906, "place": "SFOBB S-curve loc 1", "X": -122.351037, "Y": 37.816684 }, "geometry": { "type": "Point", "coordinates": [ -122.351037, 37.816684 ] } }
+{ "type": "Feature", "properties": { "vds": 404891, "place": "SFOBB S-curve loc 1", "X": -122.349345, "Y": 37.817238 }, "geometry": { "type": "Point", "coordinates": [ -122.349345, 37.817238 ] } }
+{ "type": "Feature", "properties": { "vds": 404908, "place": "SFOBB S-curve loc 2", "X": -122.347825, "Y": 37.817739 }, "geometry": { "type": "Point", "coordinates": [ -122.347825, 37.817739 ] } }
+{ "type": "Feature", "properties": { "vds": 404889, "place": "SFOBB S-curve loc 2", "X": -122.346136, "Y": 37.818297 }, "geometry": { "type": "Point", "coordinates": [ -122.346136, 37.818297 ] } }
+{ "type": "Feature", "properties": { "vds": 402827, "place": "SFOBB S-Curve", "X": -122.376792, "Y": 37.799244 }, "geometry": { "type": "Point", "coordinates": [ -122.376792, 37.799244 ] } }
+{ "type": "Feature", "properties": { "vds": 414759, "place": "SFOBB S-Curve", "X": -122.3631, "Y": 37.811991 }, "geometry": { "type": "Point", "coordinates": [ -122.3631, 37.811991 ] } }
+{ "type": "Feature", "properties": { "vds": 414758, "place": "SFOBB S-Curve", "X": -122.362981, "Y": 37.8121 }, "geometry": { "type": "Point", "coordinates": [ -122.362981, 37.8121 ] } }
+{ "type": "Feature", "properties": { "vds": 404918, "place": "SFOBB S-Curve", "X": -122.362743, "Y": 37.812318 }, "geometry": { "type": "Point", "coordinates": [ -122.362743, 37.812318 ] } }
+{ "type": "Feature", "properties": { "vds": 404919, "place": "SFOBB S-Curve", "X": -122.362231, "Y": 37.812723 }, "geometry": { "type": "Point", "coordinates": [ -122.362231, 37.812723 ] } }
+{ "type": "Feature", "properties": { "vds": 404920, "place": "SFOBB S-Curve", "X": -122.361274, "Y": 37.813382 }, "geometry": { "type": "Point", "coordinates": [ -122.361274, 37.813382 ] } }
+{ "type": "Feature", "properties": { "vds": 404883, "place": "SFOBB S-Curve", "X": -122.359471, "Y": 37.814051 }, "geometry": { "type": "Point", "coordinates": [ -122.359471, 37.814051 ] } }
+{ "type": "Feature", "properties": { "vds": 404922, "place": "SFOBB S-Curve", "X": -122.357787, "Y": 37.814597 }, "geometry": { "type": "Point", "coordinates": [ -122.357787, 37.814597 ] } }
+{ "type": "Feature", "properties": { "vds": 404884, "place": "SFOBB S-Curve", "X": -122.355938, "Y": 37.815201 }, "geometry": { "type": "Point", "coordinates": [ -122.355938, 37.815201 ] } }
+{ "type": "Feature", "properties": { "vds": 404905, "place": "SFOBB S-Curve", "X": -122.352909, "Y": 37.816189 }, "geometry": { "type": "Point", "coordinates": [ -122.352909, 37.816189 ] } }
+{ "type": "Feature", "properties": { "vds": 404887, "place": "SFOBB S-Curve", "X": -122.351227, "Y": 37.816738 }, "geometry": { "type": "Point", "coordinates": [ -122.351227, 37.816738 ] } }
+{ "type": "Feature", "properties": { "vds": 404907, "place": "SFOBB S-Curve", "X": -122.349713, "Y": 37.817231 }, "geometry": { "type": "Point", "coordinates": [ -122.349713, 37.817231 ] } }
+{ "type": "Feature", "properties": { "vds": 404888, "place": "SFOBB S-Curve", "X": -122.34803, "Y": 37.817784 }, "geometry": { "type": "Point", "coordinates": [ -122.34803, 37.817784 ] } }
+{ "type": "Feature", "properties": { "vds": 404909, "place": "SFOBB S-Curve", "X": -122.346347, "Y": 37.81834 }, "geometry": { "type": "Point", "coordinates": [ -122.346347, 37.81834 ] } }
+{ "type": "Feature", "properties": { "vds": 404528, "place": "S Sierra Point Prkwy rm-n-diag", "X": -122.395412, "Y": 37.710864 }, "geometry": { "type": "Point", "coordinates": [ -122.395412, 37.710864 ] } }
+{ "type": "Feature", "properties": { "vds": 401795, "place": "S of Sierra Point Pkwy\/Lagoon", "X": -122.398947, "Y": 37.717176 }, "geometry": { "type": "Point", "coordinates": [ -122.398947, 37.717176 ] } }
+{ "type": "Feature", "properties": { "vds": 401358, "place": "S of Sierra Point Pkwy\/Lagoon", "X": -122.40102, "Y": 37.72349 }, "geometry": { "type": "Point", "coordinates": [ -122.40102, 37.72349 ] } }
+{ "type": "Feature", "properties": { "vds": 400255, "place": "Sierra Pt Parkway & Lagoon Wy", "X": -122.402599, "Y": 37.727662 }, "geometry": { "type": "Point", "coordinates": [ -122.402599, 37.727662 ] } }
+{ "type": "Feature", "properties": { "vds": 401934, "place": "Sierra Pt Parkway & Lagoon Wy", "X": -122.406177, "Y": 37.73437 }, "geometry": { "type": "Point", "coordinates": [ -122.406177, 37.73437 ] } }
+{ "type": "Feature", "properties": { "vds": 401277, "place": "Blanken Ave", "X": -122.406392, "Y": 37.74302 }, "geometry": { "type": "Point", "coordinates": [ -122.406392, 37.74302 ] } }
+{ "type": "Feature", "properties": { "vds": 403132, "place": "Paul Ave off-s-loop", "X": -122.402898, "Y": 37.7536 }, "geometry": { "type": "Point", "coordinates": [ -122.402898, 37.7536 ] } }
+{ "type": "Feature", "properties": { "vds": 400868, "place": "Paul Ave off-s-loop", "X": -122.402898, "Y": 37.7536 }, "geometry": { "type": "Point", "coordinates": [ -122.402898, 37.7536 ] } }
+{ "type": "Feature", "properties": { "vds": 401409, "place": "Paul Ave off-s-loop", "X": -122.403503, "Y": 37.756863 }, "geometry": { "type": "Point", "coordinates": [ -122.403503, 37.756863 ] } }
+{ "type": "Feature", "properties": { "vds": 401516, "place": "BACON ST NEAR SAN BRUNO AVE", "X": -122.406233, "Y": 37.760031 }, "geometry": { "type": "Point", "coordinates": [ -122.406233, 37.760031 ] } }
+{ "type": "Feature", "properties": { "vds": 406871, "place": "25th St POC", "X": -122.418524, "Y": 37.769968 }, "geometry": { "type": "Point", "coordinates": [ -122.418524, 37.769968 ] } }
+{ "type": "Feature", "properties": { "vds": 401819, "place": "25th St POC", "X": -122.419351, "Y": 37.77007 }, "geometry": { "type": "Point", "coordinates": [ -122.419351, 37.77007 ] } }
+{ "type": "Feature", "properties": { "vds": 404569, "place": "S Sierra Point Prkwy rm-n-diag", "X": -122.395652, "Y": 37.710838 }, "geometry": { "type": "Point", "coordinates": [ -122.395652, 37.710838 ] } }
+{ "type": "Feature", "properties": { "vds": 401454, "place": "S of Sierra Point Pkwy\/Lagoon", "X": -122.399154, "Y": 37.717182 }, "geometry": { "type": "Point", "coordinates": [ -122.399154, 37.717182 ] } }
+{ "type": "Feature", "properties": { "vds": 401357, "place": "S of Sierra Point Pkwy\/Lagoon", "X": -122.401258, "Y": 37.723512 }, "geometry": { "type": "Point", "coordinates": [ -122.401258, 37.723512 ] } }
+{ "type": "Feature", "properties": { "vds": 403092, "place": "S of Sierra Point Pkwy\/Lagoon", "X": -122.401258, "Y": 37.723512 }, "geometry": { "type": "Point", "coordinates": [ -122.401258, 37.723512 ] } }
+{ "type": "Feature", "properties": { "vds": 401935, "place": "Sierra Pt Parkway & Lagoon Wy", "X": -122.406375, "Y": 37.734313 }, "geometry": { "type": "Point", "coordinates": [ -122.406375, 37.734313 ] } }
+{ "type": "Feature", "properties": { "vds": 401285, "place": "Blanken Ave", "X": -122.405853, "Y": 37.744018 }, "geometry": { "type": "Point", "coordinates": [ -122.405853, 37.744018 ] } }
+{ "type": "Feature", "properties": { "vds": 403131, "place": "Paul Ave off-s-loop", "X": -122.403092, "Y": 37.753591 }, "geometry": { "type": "Point", "coordinates": [ -122.403092, 37.753591 ] } }
+{ "type": "Feature", "properties": { "vds": 400043, "place": "Paul Ave off-s-loop", "X": -122.403092, "Y": 37.753591 }, "geometry": { "type": "Point", "coordinates": [ -122.403092, 37.753591 ] } }
+{ "type": "Feature", "properties": { "vds": 401410, "place": "Paul Ave off-s-loop", "X": -122.403619, "Y": 37.75671 }, "geometry": { "type": "Point", "coordinates": [ -122.403619, 37.75671 ] } }
+{ "type": "Feature", "properties": { "vds": 401408, "place": "On Bayshore Blvd", "X": -122.405643, "Y": 37.75869 }, "geometry": { "type": "Point", "coordinates": [ -122.405643, 37.75869 ] } }
+{ "type": "Feature", "properties": { "vds": 401405, "place": "Vermont St", "X": -122.416414, "Y": 37.769586 }, "geometry": { "type": "Point", "coordinates": [ -122.416414, 37.769586 ] } }
+{ "type": "Feature", "properties": { "vds": 401820, "place": "Vermont St", "X": -122.416876, "Y": 37.769613 }, "geometry": { "type": "Point", "coordinates": [ -122.416876, 37.769613 ] } }
+{ "type": "Feature", "properties": { "vds": 409335, "place": "oppo Vista Point off-n-loop", "X": -122.481539, "Y": 37.832687 }, "geometry": { "type": "Point", "coordinates": [ -122.481539, 37.832687 ] } }
+{ "type": "Feature", "properties": { "vds": 409336, "place": "oppo Vista Point off-n-loop", "X": -122.482669, "Y": 37.833371 }, "geometry": { "type": "Point", "coordinates": [ -122.482669, 37.833371 ] } }
+{ "type": "Feature", "properties": { "vds": 422197, "place": "Sickles Ave UC", "X": -122.454834, "Y": 37.711252 }, "geometry": { "type": "Point", "coordinates": [ -122.454834, 37.711252 ] } }
+{ "type": "Feature", "properties": { "vds": 404617, "place": "Sickles Ave UC", "X": -122.454834, "Y": 37.711252 }, "geometry": { "type": "Point", "coordinates": [ -122.454834, 37.711252 ] } }
+{ "type": "Feature", "properties": { "vds": 422198, "place": "Sickles Ave UC", "X": -122.452951, "Y": 37.712594 }, "geometry": { "type": "Point", "coordinates": [ -122.452951, 37.712594 ] } }
+{ "type": "Feature", "properties": { "vds": 404618, "place": "Sickles Ave UC", "X": -122.448259, "Y": 37.719431 }, "geometry": { "type": "Point", "coordinates": [ -122.448259, 37.719431 ] } }
+{ "type": "Feature", "properties": { "vds": 419056, "place": "Sickles Ave UC", "X": -122.448225, "Y": 37.719718 }, "geometry": { "type": "Point", "coordinates": [ -122.448225, 37.719718 ] } }
+{ "type": "Feature", "properties": { "vds": 400156, "place": "Sickles Ave UC", "X": -122.445019, "Y": 37.727079 }, "geometry": { "type": "Point", "coordinates": [ -122.445019, 37.727079 ] } }
+{ "type": "Feature", "properties": { "vds": 400676, "place": "Sickles Ave UC", "X": -122.43422, "Y": 37.731577 }, "geometry": { "type": "Point", "coordinates": [ -122.43422, 37.731577 ] } }
+{ "type": "Feature", "properties": { "vds": 401486, "place": "Sickles Ave UC", "X": -122.424609, "Y": 37.731414 }, "geometry": { "type": "Point", "coordinates": [ -122.424609, 37.731414 ] } }
+{ "type": "Feature", "properties": { "vds": 400575, "place": "Ocean Ave on-n-diag", "X": -122.417132, "Y": 37.731898 }, "geometry": { "type": "Point", "coordinates": [ -122.417132, 37.731898 ] } }
+{ "type": "Feature", "properties": { "vds": 425245, "place": "Ocean Ave on-n-diag", "X": -122.417132, "Y": 37.731898 }, "geometry": { "type": "Point", "coordinates": [ -122.417132, 37.731898 ] } }
+{ "type": "Feature", "properties": { "vds": 425246, "place": "Ocean Ave on-n-diag", "X": -122.410958, "Y": 37.733706 }, "geometry": { "type": "Point", "coordinates": [ -122.410958, 37.733706 ] } }
+{ "type": "Feature", "properties": { "vds": 400322, "place": "Ocean Ave on-n-diag", "X": -122.409462, "Y": 37.734299 }, "geometry": { "type": "Point", "coordinates": [ -122.409462, 37.734299 ] } }
+{ "type": "Feature", "properties": { "vds": 400573, "place": "18 TH ST \/ PENNSYLVANIA", "X": -122.397356, "Y": 37.770861 }, "geometry": { "type": "Point", "coordinates": [ -122.397356, 37.770861 ] } }
+{ "type": "Feature", "properties": { "vds": 404647, "place": "John Daly Blvd rm-s-diag", "X": -122.455028, "Y": 37.711347 }, "geometry": { "type": "Point", "coordinates": [ -122.455028, 37.711347 ] } }
+{ "type": "Feature", "properties": { "vds": 404648, "place": "John Daly Blvd rm-s-diag", "X": -122.448467, "Y": 37.719675 }, "geometry": { "type": "Point", "coordinates": [ -122.448467, 37.719675 ] } }
+{ "type": "Feature", "properties": { "vds": 419093, "place": "John Daly Blvd rm-s-diag", "X": -122.448253, "Y": 37.72142 }, "geometry": { "type": "Point", "coordinates": [ -122.448253, 37.72142 ] } }
+{ "type": "Feature", "properties": { "vds": 400746, "place": "John Daly Blvd rm-s-diag", "X": -122.448231, "Y": 37.721564 }, "geometry": { "type": "Point", "coordinates": [ -122.448231, 37.721564 ] } }
+{ "type": "Feature", "properties": { "vds": 400397, "place": "John Daly Blvd rm-s-diag", "X": -122.445512, "Y": 37.726891 }, "geometry": { "type": "Point", "coordinates": [ -122.445512, 37.726891 ] } }
+{ "type": "Feature", "properties": { "vds": 400318, "place": "oppo Sickles Ave UC", "X": -122.436258, "Y": 37.731198 }, "geometry": { "type": "Point", "coordinates": [ -122.436258, 37.731198 ] } }
+{ "type": "Feature", "properties": { "vds": 401470, "place": "oppo Sickles Ave UC", "X": -122.427875, "Y": 37.731979 }, "geometry": { "type": "Point", "coordinates": [ -122.427875, 37.731979 ] } }
+{ "type": "Feature", "properties": { "vds": 425281, "place": "oppo Ocean Ave on-n-diag", "X": -122.421517, "Y": 37.731863 }, "geometry": { "type": "Point", "coordinates": [ -122.421517, 37.731863 ] } }
+{ "type": "Feature", "properties": { "vds": 400552, "place": "oppo Ocean Ave on-n-diag", "X": -122.421517, "Y": 37.731863 }, "geometry": { "type": "Point", "coordinates": [ -122.421517, 37.731863 ] } }
+{ "type": "Feature", "properties": { "vds": 425282, "place": "oppo Ocean Ave on-n-diag", "X": -122.415485, "Y": 37.732249 }, "geometry": { "type": "Point", "coordinates": [ -122.415485, 37.732249 ] } }
+{ "type": "Feature", "properties": { "vds": 401018, "place": "oppo Ocean Ave on-n-diag", "X": -122.414119, "Y": 37.732647 }, "geometry": { "type": "Point", "coordinates": [ -122.414119, 37.732647 ] } }
+{ "type": "Feature", "properties": { "vds": 400231, "place": "18th St \/ Pennsylvania", "X": -122.392743, "Y": 37.762469 }, "geometry": { "type": "Point", "coordinates": [ -122.392743, 37.762469 ] } }
