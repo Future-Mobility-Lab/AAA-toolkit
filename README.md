@@ -4,7 +4,8 @@ Accident Analysis & Association (AAA) toolkit.
 
 The Accident Analysis & Association (AAA) toolkit is a comprehensive program designed for data-driven accident analysis and mapping. The toolkit leverages a range of geospatial and traffic data sources to create a multi-dimensional view of traffic incidents in a particular region.
 
-The traffic speed readings are available by the link (CSV - traffic speed readings on the day of disruption, PMW - traffic speed readings during the first week before the day of disruption, PMW2 - traffic speed readings the during a week, two weeks before the day of disruption)
+The traffic speed readings are available by the link (CSV - traffic speed readings on the day of disruption, PMW - traffic speed readings during the first week before the day of disruption, PMW2 - traffic speed readings the during a week, two weeks before the day of disruption):
+
 https://drive.google.com/file/d/1tKqefd8TgX_fVh-COoQk0ZN-YSSJ3gH6/view?usp=sharing
 
 Code parts:
