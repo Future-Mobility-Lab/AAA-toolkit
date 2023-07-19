@@ -16,7 +16,8 @@ Code parts:
 6.	Apply road alignment: VDS2ROAD, CTADS2ROAD.
 7.	Apply algorithm: CTADS2VDS. Associate VDS points to accident points.
 8.	CTADS2TS: Download traffic speed on the day of incident and two weeks before.
-9.	Produce the final pickle file for traffic speeds/traffic flows.
+9.	Manual markup tool to segment traffic incidents from traffic speed.
+10.	Produce the final file for traffic speeds/traffic flows.
 
 
 The code implements multiple steps and code parts:
