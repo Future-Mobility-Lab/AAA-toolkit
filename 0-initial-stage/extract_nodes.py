@@ -60,4 +60,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     main(args)
 
-# run: python your_script.py input.osm output.csv --batch_size 10000 --min_lat 10 --max_lat 50 --min_lon -10 --max_lon 30
+# run: python extract_nodes.py input.osm output.csv --batch_size 10000 --min_lat 10 --max_lat 50 --min_lon -10 --max_lon 30

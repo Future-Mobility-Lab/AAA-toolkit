@@ -50,4 +50,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     main(args)
 
-# ~ python your_script.py --input_file map.osm output_file output.jsonl --batch_size 1000
+# ~ python extract_ways.py --input_file map.osm output_file output.jsonl --batch_size 1000
